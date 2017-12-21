@@ -1,0 +1,148 @@
+{
+  "city": "上海",
+  "banner": "//fuss10.elemecdn.com/3/c8/45b2ec2855ed55d90c45bf9b07abbpng.png?imageMogr/format/webp/thumbnail/!710x178r/gravity/Center/crop/710x178/",
+  "shortcut": [
+    [
+      {
+        "img": "//fuss10.elemecdn.com/b/7e/d1890cf73ae6f2adb97caa39de7fcjpeg.jpeg?imageMogr/format/webp/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+        "title": "美食1",
+        "channelId": 1
+      },
+      {
+        "img": "//fuss10.elemecdn.com/b/7e/d1890cf73ae6f2adb97caa39de7fcjpeg.jpeg?imageMogr/format/webp/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+        "title": "美食2",
+        "channelId": 2
+      },
+      {
+        "img": "//fuss10.elemecdn.com/b/7e/d1890cf73ae6f2adb97caa39de7fcjpeg.jpeg?imageMogr/format/webp/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+        "title": "美食3",
+        "channelId": 3
+      },
+      {
+        "img": "//fuss10.elemecdn.com/b/7e/d1890cf73ae6f2adb97caa39de7fcjpeg.jpeg?imageMogr/format/webp/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+        "title": "美食4",
+        "channelId": 1
+      },
+      {
+        "img": "//fuss10.elemecdn.com/b/7e/d1890cf73ae6f2adb97caa39de7fcjpeg.jpeg?imageMogr/format/webp/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+        "title": "美食5",
+        "channelId": 1
+      },
+      {
+        "img": "//fuss10.elemecdn.com/b/7e/d1890cf73ae6f2adb97caa39de7fcjpeg.jpeg?imageMogr/format/webp/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+        "title": "美食6",
+        "channelId": 1
+      },
+      {
+        "img": "//fuss10.elemecdn.com/b/7e/d1890cf73ae6f2adb97caa39de7fcjpeg.jpeg?imageMogr/format/webp/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+        "title": "美食7",
+        "channelId": 2
+      },
+      {
+        "img": "//fuss10.elemecdn.com/b/7e/d1890cf73ae6f2adb97caa39de7fcjpeg.jpeg?imageMogr/format/webp/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+        "title": "美食8",
+        "channelId": 3
+      },
+      {
+        "img": "//fuss10.elemecdn.com/b/7e/d1890cf73ae6f2adb97caa39de7fcjpeg.jpeg?imageMogr/format/webp/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+        "title": "美食9",
+        "channelId": 1
+      },
+      {
+        "img": "//fuss10.elemecdn.com/b/7e/d1890cf73ae6f2adb97caa39de7fcjpeg.jpeg?imageMogr/format/webp/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+        "title": "美食10",
+        "channelId": 1
+      }
+    ],
+    [
+      {
+        "img": "//fuss10.elemecdn.com/b/7e/d1890cf73ae6f2adb97caa39de7fcjpeg.jpeg?imageMogr/format/webp/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+        "title": "美食11",
+        "channelId": 4
+      },
+      {
+        "img": "//fuss10.elemecdn.com/b/7e/d1890cf73ae6f2adb97caa39de7fcjpeg.jpeg?imageMogr/format/webp/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+        "title": "美食12",
+        "channelId": 5
+      },
+      {
+        "img": "//fuss10.elemecdn.com/b/7e/d1890cf73ae6f2adb97caa39de7fcjpeg.jpeg?imageMogr/format/webp/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+        "title": "美食13",
+        "channelId": 6
+      },
+      {
+        "img": "//fuss10.elemecdn.com/b/7e/d1890cf73ae6f2adb97caa39de7fcjpeg.jpeg?imageMogr/format/webp/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+        "title": "美食14",
+        "channelId": 1
+      },
+      {
+        "img": "//fuss10.elemecdn.com/b/7e/d1890cf73ae6f2adb97caa39de7fcjpeg.jpeg?imageMogr/format/webp/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+        "title": "美食15",
+        "channelId": 2
+      },
+      {
+        "img": "//fuss10.elemecdn.com/b/7e/d1890cf73ae6f2adb97caa39de7fcjpeg.jpeg?imageMogr/format/webp/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+        "title": "美食16",
+        "channelId": 3
+      },
+      {
+        "img": "//fuss10.elemecdn.com/b/7e/d1890cf73ae6f2adb97caa39de7fcjpeg.jpeg?imageMogr/format/webp/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+        "title": "美食17",
+        "channelId": 1
+      },
+      {
+        "img": "//fuss10.elemecdn.com/b/7e/d1890cf73ae6f2adb97caa39de7fcjpeg.jpeg?imageMogr/format/webp/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+        "title": "美食18",
+        "channelId": 1
+      },
+      {
+        "img": "//fuss10.elemecdn.com/b/7e/d1890cf73ae6f2adb97caa39de7fcjpeg.jpeg?imageMogr/format/webp/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+        "title": "美食19",
+        "channelId": 1
+      },
+      {
+        "img": "//fuss10.elemecdn.com/b/7e/d1890cf73ae6f2adb97caa39de7fcjpeg.jpeg?imageMogr/format/webp/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+        "title": "美食20",
+        "channelId": 2
+      }
+    ]
+  ],
+  "guessLike": [
+    {
+      "sellerPic": "//p1.meituan.net/200.0/deal/1d53cc92209f78ee1127fe76335f2c0862681.jpg@116_0_458_458a%7C267h_267w_2e_90Q",
+      "sellerName": "正茂诚好运海鲜火锅自助餐厅",
+      "sellerTag": "[常府街/长白街]开业巨献单人券",
+      "price": 3500,
+      "storePrice": 80,
+      "soldNum": 10539,
+      "itemId": 1
+    },
+    {
+      "sellerPic": "//p0.meituan.net/100.0/deal/2cd858c1a9193fffaab919db5475241e29675.jpg",
+      "sellerName": "正drfas诚好运海鲜火锅自助餐厅",
+      "sellerTag": "[常府2街/长白2街]开业巨献单人券",
+      "price": 3300,
+      "storePrice": 9890,
+      "soldNum": 3230539,
+      "itemId": 2
+    },
+    {
+      "sellerPic": "//p0.meituan.net/100.0/deal/2cd858c1a9193fffaab919db5475241e29675.jpg",
+      "sellerName": "正drfas诚好运海鲜火锅自助餐厅",
+      "sellerTag": "[常府2街/长白2街]开业巨献单人券",
+      "price": 3300,
+      "storePrice": 9890,
+      "soldNum": 3230539,
+      "itemId": 2
+    },
+    {
+      "sellerPic": "//p0.meituan.net/100.0/deal/2cd858c1a9193fffaab919db5475241e29675.jpg",
+      "sellerName": "正drfas诚好运海鲜火锅自助餐厅",
+      "sellerTag": "[常府2街/长白2街]开业巨献单人券",
+      "price": 3300,
+      "storePrice": 9890,
+      "soldNum": 3230539,
+      "itemId": 2
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+.btn{
+  display: inline-block;
+  height: .6rem;
+  padding: 0 .32rem;
+  margin: 0;
+  text-align: center;
+  border-radius: .06rem;
+  font-size: .28rem;
+  line-height: .6rem;
+  border: 0;
+  color: #fff;
+  background-color: #06c1ae;
+  box-sizing: border-box;
+  cursor: pointer;
+  -webkit-user-select: none;
+}
+.btn-larger {
+  height: .94rem;
+  line-height: .94rem;
+  font-size: .4rem;
+}
+.btn-strong {
+  background-color: #f90;
+}
+.btn-tag{
+  height: .62rem;
+  padding: 0 .11rem;
+  line-height: .62rem;
+  background: 0;
+  border: .02rem solid #ACACAC;
+  color: #999;
+  margin-bottom: .14rem;
+  margin-right: .1rem;
+}
+.btn-tag-light {
+  border: .02rem solid #FDB338;
+  color: #FDB338;
+
+}
+.btn-larger {
+  height: .94rem;
+  line-height: .94rem;
+  font-size: .4rem;
+}
+.btn-weak {
+  border: .02rem solid #06c1ae;
+  padding: 0 .3rem;
+  background: 0;
+  color: #06c1ae;
+}
+.btn-block {
+  display: block;
+  width: 100%;
+}
+.btn-disabled, .btn:disabled {
+  background-color: #dcdcdc;
+  color: #999;
+  border: 0;
+}
+
+a {
+  color: #06c1ae;
+  outline: 0;
+  text-decoration: none;
+}
+
+.input-weak {
+  border-top: 1px solid #DDD8CE;
+  position: relative;
+  padding: 0 .2rem;
+  line-height: .9rem;
+  height: .9rem;
+  text-align: left;
+  font-size: .3rem;
+}
+
+.content-info-line{
+  border-top: 1px solid #DDD8CE;
+  position: relative;
+  padding: 0 .2rem;
+  line-height: .9rem;
+  height: .9rem;
+  text-align: left;
+  font-size: .3rem;
+}
+
+.group-title {
+  font-size: .34rem;
+  line-height: 1.5;
+  padding: .22rem .2rem .14rem;
+  color: #333;
+}
+.list-group {
+  background-color: #fff;
+  border-top: 1px solid #DDD8CE;
+  margin-top: .2rem;
+  margin-bottom: 0;
+}
+.dd-padding {
+  padding: .28rem .2rem;
+}
+
+.color-ok{
+  color:#6bbd00
+}
+
+.l{
+  float: left!important;
+}
+.r{
+  float: right!important;
+}
+
+//input {
+//  -webkit-appearance: textfield;
+//  background-color: white;
+//  -webkit-rtl-ordering: logical;
+//  cursor: auto;
+//  padding: 1px;
+//  border-width: 2px;
+//  border-style: inset;
+//  border-color: initial;
+//  border-image: initial;
+//}
+
+input, textarea, select, button {
+  text-rendering: auto;
+  color: initial;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  text-indent: 0px;
+  text-shadow: none;
+  display: inline-block;
+  text-align: start;
+  margin: 0em;
+  font: 400 13.3333px Arial;
+}
+
+input, textarea, select, button, meter, progress {
+  -webkit-writing-mode: horizontal-tb;
+}
+
+.nav-bar{
+  height: 1.02rem;
+  color: #fff;
+  background: #06c1ae;
+  border-bottom: 1px solid #21897d;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  position: relative;
+  z-index: 30;
+}

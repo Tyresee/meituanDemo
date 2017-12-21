@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- https://github.com/joshbuchea/HEAD -->
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+  <meta name="description" content="mt">
+  <meta name="keywords" content="mt">
+  <meta name="format-detection" content="telephone=no,email=no,address=no">
+  <meta http-equiv="pragma" content="no-cache">
+  <meta http-equiv="cache-control" content="no-cache">
+  <meta name="apple-touch-fullscreen" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="mt">
+  <meta name="apple-itunes-app" content="app-id=414603431">
+  <link rel="manifest" href="/static/manifest.json">
+  <link rel="apple-touch-icon" href="/static/logo.png" type="image/png">
+  <link rel="icon" href="//p1.meituan.net/codeman/44f8f3736d61a550dc0fa7bc1a70b6056518.ico" type="image/x-icon">
+  <title>mt</title>
+  <script>
+    function rem () {
+      var html = window.document.documentElement
+      var width = Math.min(html.getBoundingClientRect().width, 500)
+      html.style.fontSize = width * 100 / 750 + 'px'
+    }
+    rem()
+    window.onresize = function () { rem() }
+  </script>
+</head>
+<body>
+  <!-- Vue's root component and where the app will load -->
+  <div id="app"></div>
+  <script>
+    // eruda is a Console for Mobile Browsers.
+    if (/eruda=true/.test(window.location)) {
+      document.write('<scr' + 'ipt src="https://cdn.jsdelivr.net/npm/eruda"></scr' + 'ipt>')
+      document.write('<scr' + 'ipt>eruda.init();</scr' + 'ipt>')
+    }
+  </script>
+</body>
+</html>
